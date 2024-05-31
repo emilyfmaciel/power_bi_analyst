@@ -1,5 +1,3 @@
-# power_bi_analyst
-
 # Relatório de Análise de Vendas
 
 Página 1:
