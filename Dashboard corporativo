@@ -1,0 +1,1 @@
+mysql -h desafio-projeto-diioo.mysql.database.azure.com -u company -p {restoredbname}<my_backup.sql
